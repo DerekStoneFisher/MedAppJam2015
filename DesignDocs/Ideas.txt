@@ -1,0 +1,21 @@
+In this document you are welcome to make random notes about ideas
+regarding design structure, impelementation, API's we could utilize,
+functionality, or anything you can think of that can help further our
+project.
+--------------------------------------------------------------------------
+
+Baby Step Goals:
+let's make an application design flowchart
+let's figure out how to use the google maps API
+let's figure out how to modularize our app (break it into parts)
+
+Focus on the essence: what are some problems we need to solve?
+2. How do we find doctors and add them automatically?
+3. Don't we need to make a remote server somewhere that people need to interface to?
+  a. we have to have a database that users can search through...
+  b. we need to have a client side gui that users interact with...
+4. this is a two part project. 1. server application and 2. gui application
+
+
+
+
